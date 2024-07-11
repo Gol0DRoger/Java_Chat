@@ -1,2 +1,2 @@
 # Java_Chat
-Trying to make a Groupo chat application using Java.
+Trying to make a Group chat application using Java.
